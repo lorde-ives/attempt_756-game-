@@ -1,5 +1,5 @@
 # attempt_756
-A 2D game made using Godot
+A 2D platformer 
 
 To do:  
 
